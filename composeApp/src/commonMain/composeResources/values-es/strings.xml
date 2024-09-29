@@ -1,0 +1,4 @@
+<resources>
+    <string name="click_me">Click aquí!</string>
+    <string name="say_hello">Hola %1$s!</string>
+</resources>
